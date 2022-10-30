@@ -1,10 +1,17 @@
 -- Settings
+
 require("setting")
+
 -- Plugins
+
 require("plugin")
+
 -- Key map
+
 require("mapping")
+
 -- Modules
+
 require("modules.theme")
 require("modules.telescope")
 require("modules.sline")
