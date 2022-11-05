@@ -45,7 +45,7 @@ local options = {
 	titlestring = [[%t %l %h%m%r%w - %{v:progname} ]],
 }
 
-vim.api.nvim_command("colorscheme catppuccin-mocha")
+
 
 vim.o.winbar = "%{%v:lua.require'modules.winbar'.eval()%}"
 
