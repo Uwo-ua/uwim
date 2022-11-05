@@ -31,6 +31,8 @@ require("catppuccin").setup({
     custom_highlights = {},
 })
 
+vim.api.nvim_command("colorscheme catppuccin-mocha")
+
 vim.cmd([[
 hi TelescopePromptBorder guifg=#f38ba8 guibg=#1e1e2e
 hi TelescopePromptNormal  guifg=#f38ba8 guibg=#1e1e2e
