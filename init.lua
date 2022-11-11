@@ -11,7 +11,6 @@ require("plugin")
 require("mapping")
 
 -- Modules
-
 require("modules.theme")
 require("modules.telescope")
 require("modules.feline")
