@@ -1,13 +1,10 @@
 -- Settings
-
 require("setting")
 
 -- Plugins
-
 require("plugin")
 
 -- Key map
-
 require("mapping")
 
 -- Modules
