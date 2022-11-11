@@ -14,7 +14,7 @@ require("mapping")
 
 require("modules.theme")
 require("modules.telescope")
-require("modules.sline")
+require("modules.feline")
 require("modules.winbar")
 require("modules.pairs")
 require("modules.mason")
