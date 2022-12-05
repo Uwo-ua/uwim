@@ -21,6 +21,7 @@ configs.setup({
     "vue",
     "yaml",
     "tsx",
+    "nix"
   },
   highlight = {
 		enable = true,
